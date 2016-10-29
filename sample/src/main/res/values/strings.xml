@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Single Sample</string>
+    <string name="click">Click</string>
+    <string name="single_click">Single Click</string>
+</resources>
